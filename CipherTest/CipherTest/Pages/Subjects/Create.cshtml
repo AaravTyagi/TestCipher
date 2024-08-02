@@ -1,0 +1,32 @@
+﻿@page
+@model CipherTest.Pages.Subjects.CreateSubjectModel
+
+<h2>Add Subject Information</h2>
+<form method="post">
+    @Html.AntiForgeryToken()
+    <div>
+        <label>Name</label><br>
+        <input name="Name" />
+        <span asp-validation-for="Subject.Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label >Class</label><br>
+        <input name="Class" />
+        <span asp-validation-for="Subject.Class" class="text-danger"></span>
+    </div>
+    <div>
+        <label>Languages</label><br>
+        <input type="text" asp-for="Languages" name="Languages[]" placeholder="Language 1" /><br>
+        <input type="text" asp-for="Languages" name="Languages[]" placeholder="Language 2" /><br>
+        <input type="text" asp-for="Languages" name="Languages[]" placeholder="Language 3" />
+    </div>
+    <div>
+        <input type="submit" value="Submit" />
+    </div>
+    @Model.Subject
+</form>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

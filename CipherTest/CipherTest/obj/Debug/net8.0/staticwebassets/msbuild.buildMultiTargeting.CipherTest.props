@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CipherTest.props" />
+</Project>

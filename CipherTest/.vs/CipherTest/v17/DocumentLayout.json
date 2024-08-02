@@ -1,0 +1,697 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.netcore\\New folder\\CipherTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|d:\\asp.netcore\\new folder\\ciphertest\\ciphertest\\pages\\teachers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\teachers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\subjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\subjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\subjects\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\subjects\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\teachers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\teachers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\subjects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\subjects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\subjects\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\subjects\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\teachers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\teachers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\teachers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\teachers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\teachers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\teachers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\subjects\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\subjects\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\subjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\subjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\subjects\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\subjects\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\subjects\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\subjects\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\ciphertest\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:ciphertest\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Migrations\\20240802100746_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:CipherTest\\Migrations\\20240802100746_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Migrations\\20240802095414_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A498E4-9B74-431D-9BA4-BEBAB0F3A21F}|CipherTest\\CipherTest.csproj|solutionrelative:CipherTest\\Migrations\\20240802095414_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240802100746_InitialCreate2.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Migrations\\20240802100746_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Migrations\\20240802100746_InitialCreate2.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Migrations\\20240802100746_InitialCreate2.cs",
+              "RelativeToolTip": "CipherTest\\Migrations\\20240802100746_InitialCreate2.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:07:46.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Teachers\\Create.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Create.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Teachers\\Create.cshtml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:59:14.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240802095414_InitialCreate1.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Migrations\\20240802095414_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Migrations\\20240802095414_InitialCreate1.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Migrations\\20240802095414_InitialCreate1.cs",
+              "RelativeToolTip": "CipherTest\\Migrations\\20240802095414_InitialCreate1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:54:14.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Models\\Student.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Models\\Student.cs",
+              "RelativeToolTip": "CipherTest\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:45:05.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAlwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:21:35.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Students\\Create.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Students\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T06:11:26.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CipherTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:49:09.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Error.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:45:44.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Error.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:44:49.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CipherTest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:40:43.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Create.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Teachers\\Create.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Create.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Teachers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:32:39.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Teachers\\Index.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Index.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Teachers\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:20:27.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Teachers\\Index.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Teachers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:20:27.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Teachers\\Delete.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Delete.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Teachers\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:20:27.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Teachers\\Delete.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Delete.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Teachers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:20:27.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Teachers\\Details.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Details.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Teachers\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:20:27.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Details.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Teachers\\Details.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Details.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Teachers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:20:27.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Teachers\\Edit.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Edit.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Teachers\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:20:27.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Teachers\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Teachers\\Edit.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Teachers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:20:26.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Subjects\\Index.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Index.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Subjects\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:06:30.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Index.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Subjects\\Index.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Index.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Subjects\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:06:29.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Subjects\\Delete.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Delete.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Subjects\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:06:29.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Subjects\\Delete.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Delete.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Subjects\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:06:29.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Subjects\\Details.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Details.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Subjects\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:06:29.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Details.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Subjects\\Details.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Details.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Subjects\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:06:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Subjects\\Edit.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Edit.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Subjects\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvw0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:06:29.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Subjects\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Edit.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Subjects\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:06:29.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Subjects\\Create.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Create.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Subjects\\Create.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:06:29.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Create.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Subjects\\Create.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Subjects\\Create.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Subjects\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:06:29.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:03:29.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Students\\Index.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:03:28.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Students\\Delete.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Students\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:03:28.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Students\\Delete.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Delete.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Students\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:03:28.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Students\\Details.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Students\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:03:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Students\\Details.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Details.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Students\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:03:28.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Students\\Edit.cshtml.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeToolTip": "CipherTest\\Pages\\Students\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:03:28.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CipherTest\\Pages\\Students\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Pages\\Students\\Edit.cshtml",
+              "RelativeToolTip": "CipherTest\\Pages\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:03:28.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Models\\Subject.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Models\\Subject.cs",
+              "RelativeToolTip": "CipherTest\\Models\\Subject.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:50:58.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Models\\Teacher.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Models\\Teacher.cs",
+              "RelativeToolTip": "CipherTest\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:50:45.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Program.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Program.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Program.cs",
+              "RelativeToolTip": "CipherTest\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAvwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:08:43.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\appsettings.json",
+              "RelativeDocumentMoniker": "CipherTest\\appsettings.json",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\appsettings.json",
+              "RelativeToolTip": "CipherTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T14:07:32.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CipherTest\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASP.netcore\\New folder\\CipherTest\\CipherTest\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CipherTest\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:06:36.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
